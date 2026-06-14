@@ -5,6 +5,7 @@
   "version": "1",
   "games": [
     {
+      "id": "botw",
       "path": "games/botw/game.json"
     }
   ]
