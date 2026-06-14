@@ -1,5 +1,6 @@
 {
   "name": "Breath of the wild",
+  "icon": "https://cdn2.steamgriddb.com/icon_thumb/af2566f8377b5ae9c13f3dac132297f4.png",
   "titleIds": [
     "00050000101C9500"
   ],
@@ -11,6 +12,11 @@
       "version": "3",
       "author": "QNando",
       "description": "Changes Links PlayerModel to Zeldas",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_5b15a684d5414.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5b15a648f359e.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5b15a982e8bbc.jpg"
+      ],
       "download": "https://filecache20.gamebanana.com/mods/zelda_pack1_update.zip"
     }
   ]
