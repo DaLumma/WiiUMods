@@ -5,7 +5,7 @@
   "version": "1",
   "games": [
     {
-      "path": "games/new-game/game.json"
+      "path": "games/botw/game.json"
     }
   ]
 }
