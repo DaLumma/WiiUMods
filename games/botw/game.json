@@ -1,0 +1,17 @@
+{
+  "name": "Breath of the wild",
+  "titleIds": [
+    "00050000101C9500"
+  ],
+  "mods": [
+    {
+      "id": "1",
+      "name": "Zelda Mod",
+      "type": "mod",
+      "version": "3",
+      "author": "QNando",
+      "description": "Changes Links PlayerModel to Zeldas",
+      "download": "https://filecache20.gamebanana.com/mods/zelda_pack1_update.zip"
+    }
+  ]
+}
