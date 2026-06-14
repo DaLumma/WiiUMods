@@ -18,6 +18,20 @@
         "https://images.gamebanana.com/img/ss/mods/5b15a982e8bbc.jpg"
       ],
       "download": "https://filecache20.gamebanana.com/mods/zelda_pack1_update.zip"
+    },
+    {
+      "id": "1",
+      "name": "Linkle Mod",
+      "type": "mod",
+      "version": "3",
+      "author": "Lynard Killer",
+      "description": "Changes Links PlayerModel to Linkles",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_5b03ae09c75ab.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5d88ad9e12775.webp",
+        "https://images.gamebanana.com/img/ss/mods/5d88ada0bdfb3.webp"
+      ],
+      "download": "https://filecache35.gamebanana.com/mods/wii_u_2ab4b.zip"
     }
   ]
 }
